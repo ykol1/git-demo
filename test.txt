@@ -11,3 +11,5 @@ branching
 branching 2
 
 add from feature
+
+add from feature 2
