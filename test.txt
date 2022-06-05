@@ -12,5 +12,3 @@ branching 2
 
 add from main
 add from feature
-
-add from main2
